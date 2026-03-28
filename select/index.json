@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "doudemoii hanashiga shitai",
+  "base_artist": "Leina",
+  "createdAt": "2026-03-28T20:04:42.794424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "doudemoii hanashiga shitai (Acoustic Version)",
+      "artist": "Leina",
+      "has_synced": true,
+      "path": "select/01_doudemoii_hanashiga_shitai_(Acoustic_Version)_Leina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "doudemoii hanashiga shitai",
+      "artist": "Leina",
+      "has_synced": true,
+      "path": "select/02_doudemoii_hanashiga_shitai_Leina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "doudemoii hanashiga shitai",
+      "artist": "Leina",
+      "has_synced": false,
+      "path": "select/03_doudemoii_hanashiga_shitai_Leina.txt"
+    }
+  ]
+}
